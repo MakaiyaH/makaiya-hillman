@@ -47,7 +47,7 @@ resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+Skills                           "Great worker , Great listener , quick learner "
+Education                        "New Schools at Carver " " 10th grader "
+Extracurricular                  " Girls Community Group, Americorps Menturship Program "
+Experince                        " I have no work experience."
